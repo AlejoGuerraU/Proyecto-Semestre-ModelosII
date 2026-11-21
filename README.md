@@ -43,7 +43,6 @@ La exploración guardada reporta cero valores faltantes y una fila duplicada (un
 ├── EngineFaultDB_Final.csv
 ├── Informe final.pdf
 ├── Modelos2.pdf
-├── Primer informe.pdf
 └── entrenamiento de modelos/
     ├── Distribuciones variables por clase.ipynb
     ├── high_correlation_pairs.csv
@@ -61,7 +60,7 @@ La exploración guardada reporta cero valores faltantes y una fila duplicada (un
 - [`Analisis_exploratorio.ipynb`](Analisis_exploratorio.ipynb): inspección de datos, clases, distribuciones, correlaciones, valores atípicos y pruebas estadísticas.
 - [`entrenamiento de modelos/`](entrenamiento%20de%20modelos/): notebooks de clasificación, análisis por clase y archivos tabulares de correlación y discriminación univariada.
 - [`univariate_discrimination.csv`](entrenamiento%20de%20modelos/univariate_discrimination.csv): resultados ANOVA por predictor (`F`, `eta_squared` y `p_value`); [`predictor_correlations_pearson.csv`](entrenamiento%20de%20modelos/predictor_correlations_pearson.csv): matriz de correlación entre predictores; [`high_correlation_pairs.csv`](entrenamiento%20de%20modelos/high_correlation_pairs.csv): pares con `|r| >= 0,95`.
-- Los tres PDF son informes académicos disponibles; [`Informe final.pdf`](Informe%20final.pdf) contiene la metodología y los resultados finales. [`Primer informe.pdf`](Primer%20informe.pdf) y [`Modelos2.pdf`](Modelos2.pdf) son documentos previos del proyecto.
+- [`Informe final.pdf`](Informe%20final.pdf) contiene la metodología y los resultados finales. [`Modelos2.pdf`](Modelos2.pdf) es otro documento académico del proyecto.
 - [`univariate_feature_analysis.py`](entrenamiento%20de%20modelos/univariate_feature_analysis.py): calcula ANOVA de una vía y eta-cuadrado por predictor, además de correlaciones Pearson entre predictores. Por defecto crea `resultados/analisis_individual/` y guarda allí tres CSV.
 
 ## Tecnologías y dependencias
@@ -178,7 +177,7 @@ PCA mantiene resultados cercanos al espacio original con seis componentes. UMAP 
 
 ## Informe y autores
 
-El [informe final](Informe%20final.pdf) presenta la metodología, fundamentación y análisis detallado de resultados. También están disponibles los documentos previos [`Primer informe.pdf`](Primer%20informe.pdf) y [`Modelos2.pdf`](Modelos2.pdf).
+El [informe final](Informe%20final.pdf) presenta la metodología, fundamentación y análisis detallado de resultados. También está disponible [`Modelos2.pdf`](Modelos2.pdf).
 
 Autores verificados en el informe final: **Juan David González Rodríguez**, **Cristian Sánchez García** y **Alejandro Guerra Urrego**, estudiantes de Ingeniería de Sistemas de la Universidad de Antioquia.
 
