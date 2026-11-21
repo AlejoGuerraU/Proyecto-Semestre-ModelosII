@@ -183,8 +183,8 @@ PCA mantiene resultados cercanos al espacio original con seis componentes. UMAP 
 
 El [informe final](Informe%20final.pdf) presenta la metodología, fundamentación y análisis detallado de resultados. También está disponible [`Modelos2.pdf`](Modelos2.pdf).
 
-Autores verificados en el informe final: **Juan David González Rodríguez**, **Cristian Sánchez García** y **Alejandro Guerra Urrego**, estudiantes de Ingeniería de Sistemas de la Universidad de Antioquia.
+Autores: **Juan David González Rodríguez**, **Cristian Sánchez García** y **Alejandro Guerra Urrego**, estudiantes de Ingeniería de Sistemas de la Universidad de Antioquia.
 
-## Licencia y referencia de los datos
+## Referencia de los datos
 
-No se encontró un archivo de licencia en el repositorio ni una condición de redistribución del dataset. Aunque el CSV está incluido aquí, verifica las condiciones de uso de la fuente antes de redistribuirlo fuera del proyecto académico. El informe final cita a Vergara et al., “EngineFaultDB: A novel dataset for automotive engine fault classification and baseline results”, *IEEE Access*, 2023, [doi:10.1109/ACCESS.2023.3331316](https://doi.org/10.1109/ACCESS.2023.3331316).
+Vergara et al., “EngineFaultDB: A novel dataset for automotive engine fault classification and baseline results”, *IEEE Access*, 2023, [doi:10.1109/ACCESS.2023.3331316](https://doi.org/10.1109/ACCESS.2023.3331316).
