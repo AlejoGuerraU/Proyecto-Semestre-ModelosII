@@ -1,5 +1,9 @@
 Video: https://youtu.be/hHPwQplVNoI
 
+# Disclaimer
+
+Para la realización de este proyecto se utilizó inteligencia artificial generativa en la redacción de este articulo y la escritura de código de los modelos aquí expuestos.
+
 # Clasificación supervisada de fallas en motores de combustión interna
 
 Proyecto académico del curso **Modelos y Simulación II** de la **Universidad de Antioquia**. Se estudia la clasificación de cuatro estados de un motor a partir de mediciones de operación, consumo y emisiones del conjunto EngineFaultDB. El objetivo es comparar seis clasificadores y evaluar si PCA y UMAP permiten reducir las variables manteniendo un desempeño similar.
